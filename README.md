@@ -1,3 +1,15 @@
+<h1>Laravel Web-shop</h1>
+
+Functions:
+<ul>
+    <li>Authentication</li>
+    <li>Admin Panel (add, edit, delete products), check orders</li>
+    <li>Cart system: add to cart, delete from cart</li>
+    <li>Product availability system</li>
+</ul
+
+<b>Project is under development and improvment</b>
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
